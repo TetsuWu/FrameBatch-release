@@ -14,6 +14,15 @@ Please download the latest DMG from the Releases page.
 - Adjust padding and background color
 - Export framed images as JPG, PNG, or HEIC
 
+## Latest version
+
+Current release: v0.1.1
+
+Changes:
+- Fixed vertical image orientation.
+- Added padding ratio persistence.
+
+
 ## Copyright
 
 Copyright © 2026 TetsuWu. All rights reserved.
