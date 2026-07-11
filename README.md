@@ -12,15 +12,28 @@ Please download the latest DMG from the Releases page.
 - Add solid-color canvas frames
 - Select output aspect ratio
 - Adjust padding and background color
+- Add text watermark before framing
+- Choose watermark position and text color
 - Export framed images as JPG, PNG, or HEIC
 
-## Latest version
+## Version History
 
-Current release: v0.1.1
+### v0.2.0
 
-Changes:
+- Added text watermark feature.
+- Added watermark position selection.
+- Added watermark text color control.
+- Normalized watermark size across different source image sizes.
+- Watermark is applied to the photo content before the frame is added.
+
+### v0.1.1
+
 - Fixed vertical image orientation.
-- Added padding ratio persistence.
+- Added persistence for padding ratio.
+
+### v0.1.0
+
+- Initial stable release.
 
 
 ## Copyright
