@@ -4,7 +4,7 @@ FrameBatch is a native macOS app for batch image framing.
 
 ## Download
 
-Please download the latest DMG from the Releases page.
+Please download the latest DMG from the [Releases page](https://github.com/TetsuWu/FrameBatch-release/releases/latest).
 
 ## Features
 
@@ -14,9 +14,20 @@ Please download the latest DMG from the Releases page.
 - Adjust padding and background color
 - Add text watermark before framing
 - Choose watermark position and text color
+- Add an image watermark with adjustable size and corner position
+- Remember text and image watermark settings between launches
 - Export framed images as JPG, PNG, or HEIC
 
 ## Version History
+
+### v0.3.0
+
+- Added image watermarks with four corner positions and a 5%–40% size control.
+- Preserved transparent PNG watermark backgrounds.
+- Remembered text watermark settings, including text color opacity.
+- Restored image watermark file access using security-scoped bookmarks.
+- Applied text and image watermarks to photo content before framing.
+- Improved the right settings panel with a rounded container and predictable scrolling.
 
 ### v0.2.0
 
